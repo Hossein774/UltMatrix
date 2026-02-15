@@ -1,0 +1,1 @@
+Simple Project for implementing core matrix algorithms without relying on external math libraries
